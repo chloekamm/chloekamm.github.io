@@ -49,7 +49,7 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "",
         "Java",
         "Javascript",
         "",
@@ -71,7 +71,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Managment Information Systems (expected Spring, 2018)",
+      "area": "Managment Information Systems (expected Spring, 2023)",
       "studyType": "B.A.",
       "startDate": "2020-08-24",
       "endDate": "Present",
@@ -112,13 +112,9 @@
       "date": "Spring 2021",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Obtained a 3.56 GPA"
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      ]
     }
+    
   ],
   "references": [
     {
