@@ -2,7 +2,7 @@
   "basics": {
     "name": "Chloe Kam",
     "label": "Student",
-    "picture": "https://chloekamm.github.io/images/molly.png",
+    "picture": "https://chloekamm.github.io/images/chloe.jpeg",
     "email": "chloekam@hawaii.edu",
     "phone": "",
     "website": "https://chloekamm.github.io",
@@ -20,11 +20,7 @@
         "username": "chloekamm",
         "url": "http://github.com/chloekamm"
       },
-      {
-        "network": "linkedin",
-        "username": "chloe-kam",
-        "url": "http://linkedin.com/in/chloe-kam"
-        
+      
       }
       
     ]
